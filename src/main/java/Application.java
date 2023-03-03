@@ -40,6 +40,6 @@ public class Application {
 
         System.out.println("Currently, notEqualTo produces the following value for '8 is not equal to 8':");
         boolean result42 = comparisons.notEqualTo(8,8);
-        System.out.println(result42);
+        System.out.println(result42); 
     }
 }
